@@ -1,3 +1,3 @@
 # anifirst
-first git repository
+first git repository.
 Writer- Anirudh Sharma (General Secretary)
